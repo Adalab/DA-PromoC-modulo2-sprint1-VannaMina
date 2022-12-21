@@ -4,7 +4,6 @@ En este repositorio podremos encontrar los ejercicios de pair programing realiza
 
 La realización de estos ejercicios ha sido en lenguaje Python. Y las herramientas que hemos utilizado han sido VSCode.
 
-En la carpeta de Python encontraremos:
 
 En estos ejercicios podemos encontrar las bibliotecas:
 
@@ -14,18 +13,29 @@ Pandas
 Matplotlib
 Seaborn
 
-En estos jupiters podremos encontrar:
+Encontraremos 5 carpetas:
 
-""varios ejercicios de resolución de problemas.
-Uso de funciones.
-Uso de clases.
-Uso de Regex.
-Uso de python para manipulación y consultade datos en SQL.
-En la carpeta de SQL encontraremos:
+ESTADÍSTICA:
 
-Queries avanzadas haciendo uso de funciones agregadas.
-Queries en multiples tablas haciendo uso de la instruccción JOIN (NATURAL, INNER, LEFT, CROSS...)
-Queries avanzadas haciendo uso de subqueries.
-Queries correlaccionadas.
-Uso de Regex y la instrucción LIKE/NOT LIKE.
-Uso de CTEs""
+Donde veremos exploración y analisis de datos en base a un dataset con información global sobre el coste de la vida en diversas partes del mundo.
+
+NUMPY:
+
+Creación de diversos arrays/matrices y operaciones básicas y estadísticas.
+
+PANDAS:
+
+En esta carpeta encontraremos diversos ejercicios sobre exploración de ficheros de distintas extensiones, sobretodo .csv.
+Filtrado de datos en ficheros.
+Unión de ficheros.
+Uso de los diferentes métodos propios de PANDAS.
+Y también encontraremos unas pequeñas interpretaciones de los datos explorados y filtrados en los dististos jupyters.
+
+REPASO CONCEPTOS:
+
+Aquí encontraremos una exploración a un dataset de IMD sobre películas. 
+Tras la exploración hacemos uso de varios métodos aprendidos durante el bootcamp para contestar unas cuantas preguntas relacionadas con la temática de la tabla.
+
+VISUALIZACIÓN:
+
+Aquí por medio de matplotlib y seaborn creamos diferentes gráficas para explicar los resultados de nuestras operaciones de filtrado y exploraciones.
